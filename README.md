@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://polinasolomatina.github.io/rsschool-cv/cv
+https://PolinaSolomatina.github.io/rsschool-cv/
