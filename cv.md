@@ -1,6 +1,5 @@
 # Polina Solomatina
 ## Junior Frontend Developer
----
 ### Contact information
 * Telegram: ppolinaa
 * E-mail: polina.solomatina15@gmail.com
