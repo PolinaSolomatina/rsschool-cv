@@ -13,7 +13,7 @@ I'm 27 years old and now working as a tax lawyer. Currently I'm studying fronten
 * HTML5, CSS3
 * JavaScript Basics
 * Git, GitHub
-* VSCode
+* VS Code
 * Adobe Illustrator, AfterEffects, Photoshop, Cinema4D, Figma
 
 ### Code example
